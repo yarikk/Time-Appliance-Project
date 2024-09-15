@@ -190,7 +190,7 @@ For example:
 * Solid red - alarm / malfunction
 
 # Precision
-Time card got 4 SMA connectors that can be configured as outputs and outputs for various things such as 10Mhz, PHC, MAC, GNSS, GNSS2, IRIG, DCF for output and 10Mhz, PPS1, PPS2, TS1, TS2, IRIG, DCF for input.  
+Time card got 4 SMA connectors that can be configured as inputs and outputs for various things such as 10Mhz, PHC, MAC, GNSS, GNSS2, IRIG, DCF for output and 10Mhz, PPS1, PPS2, TS1, TS2, IRIG, DCF for input.  
 Using a Calnex Sentinel device are comparing various things. Here we are comparing the 1PPS output (Channel A) and the 10Mhz output (Channel B) from the MAC (SA.53).  
 ![Initial design](images/MACvs10Mhz.png)
 
